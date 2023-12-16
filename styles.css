@@ -147,7 +147,7 @@ header {
   display: flex;
   flex-direction: column;
   flex-grow: 2;
-  height: 82vh;
+  height: 80vh;
   margin: 10px 10px 10px 0;
   width: 420px;
   justify-content: space-between;

@@ -13,7 +13,7 @@ function createWindow() {
     icon: path.join(__dirname, 'nvisLogo.ico')
   });
 
-  // mainWindow.setMenu(null);
+  mainWindow.setMenu(null);
 
   mainWindow.loadFile('index.html');
 
